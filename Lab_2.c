@@ -1,1 +1,1 @@
-// fiza
+// include<stdio.h>
