@@ -80,7 +80,9 @@ CODE NO 5
 //    return 0;
 //    }
 
-
+/*
+CODE NO 
+6*/
 
 //int main() {
 //    int n, num, smallest;
@@ -107,7 +109,9 @@ CODE NO 5
 //}
 
 
-//CODE NO 7
+/*
+CODE NO 7
+*/
 
 
 //int main() {
@@ -120,7 +124,9 @@ CODE NO 5
 
 
 
-//CODE NO 8
+/*
+CODE NO 8
+*/
 
 
 

@@ -1,4 +1,4 @@
-#include<stdio.h>
+//#include<stdio.h>
 /*
 These are practice codes for better understanding
 */
